@@ -1,0 +1,67 @@
+
+| **A · Pago único** (la que más te conviene) | **1.200 €** + IGIC | La web con sus fotos y datos, dominio y alojamiento el primer año, 2 rondas de cambios, su ficha de Google arreglada |
+| **B · Cuota mensual** | **49 €/mes** + IGIC, mínimo 12 meses | Lo mismo, más cambios pequeños cuando los pida y la web siempre al día |
+| Mantenimiento tras la opción A | 25 €/mes o 250 €/año | Dominio, alojamiento y cambios pequeños |
+
+-
+> «Hola Antonio, soy [tu nombre], hago webs para empresas de reformas de aquí. He visto que tienes un 4,9 en Google con 31 reseñas, y he visto que tienes linkedin, facebook y tambien instagram pero que no tienes web y en Google no sale tu teléfono. Te he preparado una web de muestra con tus servicios y tus reseñas. ¿Te la enseño en 5 minutos?»
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**2. Enséñasela en su móvil, no se la describas.**
+- Lo ideal es un enlace que pueda abrir él. Para eso falta terminar lo de GitHub, que se quedó a medias.
+- En persona, llévala abierta en tu móvil o tu portátil.
+- Lo que más impresiona: la portada con «Tú pones la idea, nosotros el casco.», sus reseñas reales y el efecto de «Cómo trabajamos».
+
+**3. Argumentos que le importan a él**, no técnicos:
+- Ahora mismo pierde clientes: en Google no tiene ni web ni teléfono.
+- Con la web y su ficha arreglada, aparece mejor cuando alguien busca «reformas Las Palmas».
+- Es suya, con su nombre y sus colores; sus competidores tienen webs genéricas.
+- Le llegan peticiones de presupuesto por WhatsApp ya con el servicio que interesa.
+
+**4. Cierra con un presupuesto por escrito** que diga:
+- qué incluye;
+- cuántas rondas de cambios;
+- el plazo (por ejemplo, 7 días desde que te mande las fotos);
+- que el dominio queda a su nombre;
+- que los textos legales los revisa su asesor.
+
+## Antes de entregarla
+
+- Quitar el botón «Editar textos», la nota de «Maqueta de propuesta» y el bloqueo para Google (`noindex`).
+- Poner fotos de sus obras en lugar de las de ejemplo; tiene muchas en Instagram.
+- Que te dé sus datos legales (nombre o razón social, NIF y email) para completar el aviso legal y la privacidad.
+- Confirmar que el 654 83 70 40 es también su WhatsApp.
+- Conectar el formulario a un servicio de envío, o dejarlo como ahora, que abre WhatsApp.
+
+Esto son referencias de mercado para que decidas tú, no asesoría fiscal ni legal: lo del IGIC y la factura confírmalo con tu gestor.
+
+¿Quieres que te prepare el presupuesto para Antonio con las dos opciones, listo para imprimir o enviar en PDF?

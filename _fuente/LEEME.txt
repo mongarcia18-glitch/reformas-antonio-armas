@@ -1,0 +1,14 @@
+Cómo se genera esta web (Reformas Antonio Armas)
+=================================================
+
+La web se construye a partir de la de ESYSS con el script apply_armas.py:
+
+    python apply_armas.py base_esyss.html "../" "C:/Users/PC/Documents/Proyectos web/ESYSS"
+
+- base_esyss.html: la web de ESYSS ya construida, que sirve de base.
+- tinta_buttermax.js: la estela de tinta y las tarjetas de «Cómo trabajamos» (lo lee apply_armas.py).
+- pintura_dir/pintura-amarilla.webp: la textura de «¿Hablamos de tu reforma?».
+- generar_pintura.py y generar_raya.py: crean las texturas de pintura y de las rayas de carretera.
+- variantes/: versiones anteriores de la estela (tarjeta negra; degradado bajo las letras).
+
+Copia fija de la versión aprobada: versiones/index-2026-10-22-estela-buttermax.html
